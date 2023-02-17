@@ -1,6 +1,5 @@
 a=int(input("Enter Rs "))
 a=a-100
-b,c,d=0,0,0
 b=a//2000
 e=a%2000
 c=e//500
