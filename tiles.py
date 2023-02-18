@@ -1,0 +1,7 @@
+print("Enter dimentions of floor")
+a=int(input())
+b=int(input())
+print("Enter dimentions of tiles")
+c=int(input())
+d=int(input())
+print("Number of tiles required are=%f"%((a*b)/(c*d)))

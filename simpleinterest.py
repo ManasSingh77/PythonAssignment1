@@ -1,0 +1,5 @@
+a=int(input("Principle"))
+b=int(input("Rate"))
+c=int(input("Time"))
+print("Simple Interest = %f"%(a*b*c/100))
+print("Total Amount= %f"%(a+(a*b*c/100)))
